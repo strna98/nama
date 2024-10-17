@@ -5,7 +5,13 @@
 }
 
 body {
-  background-color: black;
+  background-color: red;
   color: white;
+  
 }
 
+p {
+  font-size: large;
+  font-weight: bold;
+  
+}
