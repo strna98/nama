@@ -5,13 +5,20 @@
 }
 
 body {
-  background-color: red;
+  background-color: gray;
   color: white;
   
 }
 
 p {
   font-size: large;
+  font-weight: bold;
+  background-color: orange;
+  
+}
+
+button {
+  background-color: #ADD8E6;
   font-weight: bold;
   
 }
